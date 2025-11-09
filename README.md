@@ -9,8 +9,7 @@ The goal is to understand the **factors driving employee turnover**, identify **
 ## 🎯 Project Objectives
 - Determine the **overall attrition rate** and its variations across job roles, departments, and demographics.  
 - Understand how **factors like tenure, satisfaction, and performance** influence attrition.  
-- Explore **voluntary vs. involuntary attrition** and their underlying causes.  
-- Identify **time-based trends** (yearly, quarterly, seasonal) in employee turnover.  
+- Identify **key demographics and performance groups** with high attrition.  
 - Provide **data-driven recommendations** to enhance employee engagement and retention.
 
 ---
@@ -49,14 +48,6 @@ The goal is to understand the **factors driving employee turnover**, identify **
 ### **Performance & Job Role Analysis**
 - Compared attrition among **different performance ratings**.  
 - Identified departments with **higher turnover** or **low engagement**.  
-
-### **Voluntary vs. Involuntary Attrition**
-- Differentiated voluntary and involuntary exits.  
-- Explored reasons such as **job dissatisfaction, pay, or career stagnation**.  
-
-### **Time-based Trends**
-- Tracked attrition **yearly and quarterly** to spot peaks.  
-- Observed **seasonal patterns** (e.g., post-fiscal or holiday-related spikes).
 
 ---
 
